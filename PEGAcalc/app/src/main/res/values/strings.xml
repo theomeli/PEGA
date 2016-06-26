@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PEGAcalc1</string>
+
+    <string name="hello_world">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="num1">Αριθμός 1</string>
+    <string name="num2">Αριθμός 2</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PEGApp</string>
+
+    <string name="infoButton">Info</string>
+    <string name="listButton">List</string>
+    <string name="mapButton">Map</string>
+    <string name="welcomeText">Welcome to PEGA</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="listBackButton">Back</string>
+    <string name="mapBackButton">Back</string>
+    <string name="info_2nd_paragraph">Το συγκεκριμένο πρόγραμμα δίνει την δυνατότητα στους αποφοίτους των Τμημάτων Πληροφορικής να συμπληρώσουν τις γνώσεις και τις προγραμματιστικές τους δεξιότητες σε θέματα που αφορούν στην ανάπτυξη εφαρμογών κινητών τηλεφώνων (ενδεικτικά για την πλατφόρμα Android) χρησιμοποιώντας κατάλληλες γλώσσες προγραμματισμού, π.χ. Java, HTML 5 κλπ.. Στο εξειδικευμένο αυτό ΠΕΓΑ, παράλληλα με τις γνώσεις που αφορούν την ανάπτυξη εφαρμογών σε κινητές συσκευές οι εκπαιδευόμενοι θα χρησιμοποιήσουν σύγχρονα εργαλεία και πλατφόρμες ανάπτυξης (ενδεικτικά Android Studio, Google API) μεγιστοποιώντας τις δυνατότητες ενσωμάτωσης στις εφαρμογές έτοιμων εργαλείων που διατίθενται ελεύθερα.</string>
+    <string name="infoBackButton">Back</string>
+    <string name="info_1st_paragraph">Τα σεμινάρια οργανώνονται από τα Τμήματα Μηχανικών Πληροφορικής του ΤΕΙ Ανατολικής Μακεδονίας- Θράκης, του Αλεξάνδρειου ΤΕΙ Θεσσαλονίκης και του ΤΕΙ Στερεάς Ελλάδας, στο πλαίσιο του έργου ΠΕΓΑ/ΕΣΠΑ.</string>
+    <string name="info_header2">“Ανάπτυξη εφαρμογών κινητών τηλεφώνων”</string>
+    <string name="info_header">ΣΕΜΙΝΑΡΙΟ ΕΣΠΑ – ΠΕΓΑ</string>
+    <string name="action_about">Σχετικά</string>
+    <string name="settings">Σχετικά</string>
+</resources>
